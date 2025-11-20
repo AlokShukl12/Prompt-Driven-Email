@@ -1,0 +1,5 @@
+{
+  "categorization_prompt": "Categorize the email into tags like urgent, finance, meeting, or status.",
+  "action_item_prompt": "Extract any action items or requests from the email as short bullet points.",
+  "auto_reply_prompt": "Draft a concise, polite reply. Include appreciation and next steps."
+}

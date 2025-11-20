@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "from": "alex@product.io",
+    "subject": "Urgent: Release status update",
+    "timestamp": "2025-11-19T16:30:00Z",
+    "body": "Please send the rollout status for today's release. We need an update on blockers and timeline. Thanks!"
+  },
+  {
+    "id": 2,
+    "from": "finance@corp.com",
+    "subject": "Invoice approval needed",
+    "timestamp": "2025-11-18T09:00:00Z",
+    "body": "Kindly review and approve the attached invoice for October. Deadline is Friday. Let us know of any issues."
+  },
+  {
+    "id": 3,
+    "from": "nora@team.org",
+    "subject": "Scheduling a planning meeting",
+    "timestamp": "2025-11-17T14:15:00Z",
+    "body": "Can we schedule a planning session next week? Please propose two time slots and share the agenda."
+  }
+]

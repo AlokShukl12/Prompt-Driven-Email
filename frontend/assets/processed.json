@@ -1,0 +1,90 @@
+{
+  "processed": [
+    {
+      "id": 1,
+      "categories": [
+        "urgent",
+        "status"
+      ],
+      "actions": [
+        "Please send the rollout status for today's release. We need an update on blockers and timeline. Thanks!"
+      ],
+      "draft": {
+        "subject": "Re: Urgent: Release status update",
+        "body": "Hi alex@product.io,\n\nAppreciate the details.\nHere's my quick reply based on the current thread.\n\n(Tone: neutral)\n\nBest,\nYour Email Agent",
+        "followups": [
+          "Confirm next steps for 'Urgent: Release status update'.",
+          "Schedule a call with alex@product.io."
+        ],
+        "metadata": {
+          "summary": "alex@product.io wrote about 'Urgent: Release status update'. Please send the rollout status for today's release",
+          "generated_at": "2025-11-20T11:00:47.714535Z",
+          "tone": "neutral",
+          "categories": [
+            "urgent",
+            "status"
+          ],
+          "actions": [
+            "Please send the rollout status for today's release. We need an update on blockers and timeline. Thanks!"
+          ]
+        }
+      }
+    },
+    {
+      "id": 2,
+      "categories": [
+        "finance"
+      ],
+      "actions": [
+        "Kindly review and approve the attached invoice for October. Deadline is Friday. Let us know of any issues."
+      ],
+      "draft": {
+        "subject": "Re: Invoice approval needed",
+        "body": "Hi finance@corp.com,\n\nThanks for the update.\nHere's my quick reply based on the current thread.\n\n(Tone: neutral)\n\nBest,\nYour Email Agent",
+        "followups": [
+          "Confirm next steps for 'Invoice approval needed'.",
+          "Schedule a call with finance@corp.com."
+        ],
+        "metadata": {
+          "summary": "finance@corp.com wrote about 'Invoice approval needed'. Kindly review and approve the attached invoice for October",
+          "generated_at": "2025-11-20T11:00:47.714555Z",
+          "tone": "neutral",
+          "categories": [
+            "finance"
+          ],
+          "actions": [
+            "Kindly review and approve the attached invoice for October. Deadline is Friday. Let us know of any issues."
+          ]
+        }
+      }
+    },
+    {
+      "id": 3,
+      "categories": [
+        "meeting"
+      ],
+      "actions": [
+        "No explicit action items detected."
+      ],
+      "draft": {
+        "subject": "Re: Scheduling a planning meeting",
+        "body": "Hi nora@team.org,\n\nThanks for the update.\nHere's my quick reply based on the current thread.\n\n(Tone: neutral)\n\nBest,\nYour Email Agent",
+        "followups": [
+          "Confirm next steps for 'Scheduling a planning meeting'.",
+          "Schedule a call with nora@team.org."
+        ],
+        "metadata": {
+          "summary": "nora@team.org wrote about 'Scheduling a planning meeting'. Can we schedule a planning session next week",
+          "generated_at": "2025-11-20T11:00:47.714569Z",
+          "tone": "neutral",
+          "categories": [
+            "meeting"
+          ],
+          "actions": [
+            "No explicit action items detected."
+          ]
+        }
+      }
+    }
+  ]
+}
